@@ -1,7 +1,7 @@
 const projects = [
   {
     link: "https://askyourvalentine13.netlify.app/",
-    image: "../src/assets/valentine pic.png",
+    image: "../public/assets/valentine pic.png",
     subtitle: "React Stack",
     title: "Be my Valentine?",
     description:
@@ -9,7 +9,7 @@ const projects = [
   },
   {
     link: "https://documenter.getpostman.com/view/23047024/2sA2rDx17a",
-    image: "../src/assets/ecomm-api.png",
+    image: "../public/assets/ecomm-api.png",
     subtitle: "Node Stack",
     title: "Ecommerce-APIs",
     description:
@@ -17,7 +17,7 @@ const projects = [
   },
   {
     link: "https://github.com/Jnanendra29/newsapp",
-    image: "../src/assets/News-app.png",
+    image: "../public/assets/News-app.png",
     subtitle: "React Stack",
     title: "News-View App",
     description:
@@ -25,7 +25,7 @@ const projects = [
   },
   {
     link: "https://reactblogsfirebase.netlify.app/",
-    image: "../src/assets/reactblog.png",
+    image: "../public/assets/reactblog.png",
     subtitle: "React and Firebase",
     title: "Blog-App",
     description:

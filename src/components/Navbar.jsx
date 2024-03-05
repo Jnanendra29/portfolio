@@ -20,9 +20,8 @@ export default function Navbar() {
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0"
         >
           Hire Me
-          {/* <ArrowRightIcon className="w-4 h-4 ml-1" /> */}
           <img
-            src="../src/assets/arrow.png"
+            src="../public/assets/arrow.png"
             alt="hireMe"
             className="w-4 h-4 ml-1"
           />
