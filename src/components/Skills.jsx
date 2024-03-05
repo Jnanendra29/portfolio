@@ -7,7 +7,7 @@ export default function Skills() {
       <div className="container px-5 py-10 mx-auto">
         <div className="text-center mb-20">
           <img
-            src="../public/assets/chip.png"
+            src="/assets/chip.png"
             alt="chip-Icon"
             className="w-10 inline-block mb-4 text-white-400"
           />
@@ -27,7 +27,7 @@ export default function Skills() {
             <div key={skill} className="p-2 sm:w-1/2 w-full">
               <div className="bg-gray-800 rounded flex p-4 h-full items-center">
                 <img
-                  src="../public/assets/quality.png"
+                  src="/assets/quality.png"
                   alt="BadgeCheck"
                   className="text-green-400 w-6 h-6 flex-shrink-0 mr-4"
                 />

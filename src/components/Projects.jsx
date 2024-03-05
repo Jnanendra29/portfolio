@@ -8,7 +8,7 @@ export default function Projects() {
       <div className="container px-5 py-10 mx-auto text-center lg:px-40">
         <div className="flex flex-col w-full mb-20">
           <img
-            src="../public/assets/code.png"
+            src="/assets/code.png"
             alt="code-Icon"
             className="mx-auto inline-block w-10 mb-4"
           />

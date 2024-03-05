@@ -21,7 +21,7 @@ export default function Navbar() {
         >
           Hire Me
           <img
-            src="../public/assets/arrow.png"
+            src="/assets/arrow.png"
             alt="hireMe"
             className="w-4 h-4 ml-1"
           />
